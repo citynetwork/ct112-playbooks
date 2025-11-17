@@ -17,5 +17,6 @@
         network: ansible_net
         auto_ip: true
         security_groups: ansible_sg
+        config_drive: true
         wait: true
       with_items: '{{ servers }}'
