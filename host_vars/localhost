@@ -13,6 +13,6 @@ servers:
     flavor: 'b.1c1gb'
     vol_size: 10
   - name: 'responsible_ravioli'
-    image: 'Ubuntu 22.04 Jammy Jellyfish x86_64'
+    image: 'Ubuntu 24.04 Noble Numbat x86_64'
     flavor: 'b.2c2gb'
     vol_size: 10
